@@ -3,10 +3,11 @@ title: Waitlist Form
 description: >-
   Get Alerted when Boards are Available
 ---
-Sign up to be among the first to know when boards go on sale in bulk, and get priority when boards are distributed by filling out this quick form. All that's required is your email address,
+Sign up to be among the first to know when boards go on sale in bulk, and get priority when boards are distributed by filling out this quick form. I only need your email address,
 but there are also feedback questions to help me set pricing and plan for distribution.
 
-For reference, you can find the details on the current (prototype) board on the [board info](/setup/#how-it-works) page. Feel free to use the form to make comments on the current board, especially the aesthetics. Before you do, note that I already plan to make the following changes:
+Feel free to also use the form to make comments on the current board, particularly its design and layout.For reference, you can find the details on the current (prototype) board on the [board info](/setup/#how-it-works) page. Before you do, note that I already plan to make the following changes:
+
  * Fix station names that get cutoff by the river or beltway designs
  * Make small, miscellaneous adjustments to LED and station name positions
  * Add silk screen (white text) to the board title to make it stand out more 
