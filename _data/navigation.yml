@@ -1,9 +1,18 @@
-- name: Pricing
-  link: /pricing/
+- name: Board Auction
+  link: /auction/
+  new_window: false
+  highlight: true
+- name: Waitlist
+  link: /waitlist/
+  new_window: false
+  highlight: true
+
+- name: Board Info
+  link: /setup/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Pricing
+  link: /pricing/
   new_window: false
   highlight: false
 - name: About
@@ -14,11 +23,12 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
+- name: Privacy
+  link: /terms-and-privacy/
+  new_window: false
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
+  
+#- name: Blog
+#  link: /blog/
+#  new_window: false
+#  highlight: false

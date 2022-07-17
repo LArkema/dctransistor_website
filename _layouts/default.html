@@ -17,20 +17,21 @@
 				ga('create', '{{ site.google_analytics_key }}', 'auto');
 				ga('send', 'pageview');
 			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
+			<!-- <script async src='https://www.google-analytics.com/analytics.js'></script> -->
 		{% endif %}
 	</head>
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Hydra Logo" width="95" height="33" /></a></div>
+			<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.png" 
+				alt="DCTransistor logo: A version of the DC flag designed to look like it is printed on PCB. 
+				Each of the two bars has three 'LEDs' on it, one for each metro line, with copper traces connecting the LEDs." width="100" height="70" /></a></div>
 				{% include navigation.html %}
 			</div>
 		</header>
 		{{ content }}
 		<footer>
 			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
 					<ul class="footer-links">
@@ -44,7 +45,8 @@
 					</ul>
 					{% endfor %}
 				</div>
-				<p class="copyright">&copy; {{ site.time | date: '%Y' }} MyApp Ltd. • <a href="#">Terms</a> &amp; <a href="#">Privacy</a> • <a href="https://cloudcannon.com/">Template by CloudCannon</a></p>
+				<p class="copyright">&copy; {{ site.time | date: '%Y' }} Logan Arkema • <a href="{{ site.baseurl }}/terms-and-privacy">Terms &amp; Privacy</a> • 
+					<a href="https://cloudcannon.com/community/themes/hydra/">Template by CloudCannon</a></p>
 			</div>
 		</footer>
 		<script>

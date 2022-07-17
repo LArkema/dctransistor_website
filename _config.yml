@@ -1,29 +1,29 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: DCTransistor
+url: "https://dctransistor.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: dctransistor
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product marketing template for Jekyll.
+logo: /images/logo.png
+description: Website for PCB live maps of the DC Metro Map
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Logan Arkema
+  email: logan [at] dctransistor [dot] com
+  twitter: LoganArkema
 social:
-  name: Hydra Template
+  name: dctransistor
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/LArkema/dctransistor_website
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: EST
 
 collections:
   staff_members:
@@ -86,14 +86,7 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
     - Twitter
-    - YouTube
-    - RSS
 
 _comments:
   map: Update the map location and display settings.

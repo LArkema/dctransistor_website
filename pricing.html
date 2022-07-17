@@ -1,91 +1,28 @@
 ---
 title: Pricing
-heading: Find the perfect plan for your business
-description: All plans include our award winning sales optimization solution to track your sales in real time.
-pricing_table:
-  - name: Basic
-    color: "#8e8e8e"
-    features:
-      - text: $25 per month
-        highlight: true
-      - text: Up to 5 users
-        highlight: false
-      - text: Basic lead scoring
-        highlight: false
-      - text: CRM
-        highlight: false
-      - text: Basic reporting
-        highlight: false
-      - text: Sales map
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=basic
-      text: Get started
-  - name: Pro
-    color: "#4a4a4a"
-    features:
-      - text: $99 per month
-        highlight: true
-      - text: Everything in Basic
-        highlight: false
-      - text: Up to 25 users
-        highlight: false
-      - text: Advanced lead scoring
-        highlight: false
-      - text: Pipeline management
-        highlight: false
-      - text: Advanced reporting
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=pro
-      text: Get started
-  - name: Professional
-    color: "#000000"
-    features:
-      - text: $299 per month
-        highlight: true
-      - text: Everything in Basic and Pro
-        highlight: false
-      - text: Up to 100 users
-        highlight: false
-      - text: Campaign builder
-        highlight: false
-      - text: Machine learning
-        highlight: false
-      - text: Calendar
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=professional
-      text: Get started
+heading: Ways to Get a Board
+description: "The Short Answer: Wait or Pay Up."
 faq:
-  - question: What types of payment do you accept?
-    answer: Credit cards including MasterCard, Visa or American Express.
-  - question: Can I change my plan at a later time?
-    answer: Yes, you can upgrade and downgrade your plan at anytime.
-  - question: Do you offer pricing for nonprofit organizations?
-    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
-  - question: Questions?
-    answer: Contact us for any further questions at <a href="#">john@business.com</a>.
----
-<div class="plans">
-	{% for plan in page.pricing_table %}
-		<ul class="plan">
-			<li style="background: {{ plan.color }}">
-				<h3>{{ plan.name }}</h3>
-			</li>
-			{% for feature in plan.features %}
-				<li {% if feature.highlight %} class="highlighted"{% endif %}>{{ feature.text }}</li>
-			{% endfor %}
+  - question: Well that's rude, what do you mean?
+    answer: > 
+      Production boards aren't done yet, but you can sing up for the <a href="/waitlist">waitlist</a>. 
+      Alternatively, I'm <a href="/auction">auctioning</a> the 1st <i>ever</i> board to raise mutual aid funds, and you can bid on that if you want one before anyone else.
+  - question: I didn't win the auction and I want a board <b>now</b>.
+    answer: >
+     In addition to the auction board, there are a handful of other ready-to-go boards that came with the prototype batch. If you're interested in buying one, reach out to
+     <a href="mailto:orders@dctransistor.com">orders@dctransistor.com</a> and we can discuss a sale price (it will not be lower than $150). 
+  - question: When will production boards be ready?
+    answer: >
+      I'm still making adjustments from the prototype batch, but I aim to start taking orders in late August or September start shipping them out sometime in September.
+      <p></p>
 
-			{% if plan.call_to_action %}
-				<li class="pricing-cta"><div class="button"><a style="background: {{ plan.color }}" href="{{ plan.call_to_action.link }}">{{ plan.call_to_action.text }} &rarr;</a></div></li>
-			{% endif %}
-		</ul>
-	{% endfor %}
-</div>
+  - question: How much will they cost?
+    answer: >
+      Price is still being finalized, but likely in the $60-$100 range.
+---
 
 {% if page.faq %}
-	<h2>Pricing FAQ</h2>
+	<h3>Longer Answers</h3>
 	<dl class="faq">
 		{% for item in page.faq %}
 			<div>
@@ -95,3 +32,9 @@ faq:
 		{% endfor %}
 	</dl>
 {% endif %}
+
+<style>
+  h3 {
+    text-align: center;
+  }
+</style>
