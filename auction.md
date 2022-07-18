@@ -3,6 +3,11 @@ title: 1st Board Auction
 description: >-
   Support DC Community Organizations by purchasing THE FIRST DC Metro PCB Board
 ---
+
+<section class="bottom-cta">
+		<div class="button alt"><a href="https://www.ebay.com/itm/204040565722" target=_blank>Bid on eBay</a></div>
+</section>
+
 <figure class="dev-img">
 <img src="{{ site.baseurl }}/images/development-board.jpg" alt="A dctransistor board, but without a battery holder or chip soldered into the bottom-left quarter. Instead, four jumper wires are soldered
 directly into four of the through-holes that a chip's pins would go through. In the background are a soldering iron and other solder supplies." style="width: 300px; height: auto;">
@@ -10,6 +15,8 @@ directly into four of the through-holes that a chip's pins would go through. In 
 </figure>
 
 Can't wait for production boards to be available in bulk? Want to support the DC community, particularly our most vulnerable neighbors, **and** get some cool wall art? Then you can own the first PCB Board to display live DC train positions. 
+
+*Auction runs 7/18/2022 7:00 PM EST - 7/28/2022 7:00 PM EST. Links to eBay will generate errors before and after the auction.*
 
 100% of what the winner pays will go to members of the DC community working to support this city. Specifically, the money will be split between the [DC Abortion Fund](https://dcabortionfund.org/) as they work to make sure people in DC, including those who come here, can get safe abortions; and [local organizers](https://dcist.com/story/22/05/24/local-mutual-aid-effort-migrants-bused-to-dc/) as they support our migrant neighbors, especially those bussed here and left with no support system from the local or federal governments.
 
@@ -40,6 +47,10 @@ None of this affects the board's functionality, it just has marks from some of t
 <u><i>Disclaimer:</i></u> I am not affiliated with these organizations and this auction is not being coordinated with them. I think they are doing important and very cool work that make this city a better place, and I want to use what money I bring in from my silly little blinky board to support the much more important things happening in DC. 
 
 There are a handful of additional prototype boards that are ready in addition to the first board I'm auctioning off. Not all of them are for sale, but if you want to get one reach out to [orders@dctransistor.com](mailto:orders@dctransistor.com) with a price you're willing to pay, starting at $150. Most of the net revenue from these boards will also go the organizations mentioned above, but not 100% of the sale like the auction (these boards are not cheap to make).
+
+<section class="bottom-cta">
+		<div class="button alt"><a href="https://www.ebay.com/itm/204040565722" target=_blank>Bid on eBay</a></div>
+</section>
 
 <style>
 	.dev-img {
