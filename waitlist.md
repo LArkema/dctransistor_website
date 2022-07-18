@@ -21,7 +21,7 @@ Feel free to also use the form to make comments on the current board, particular
 
 Based on current progress on the production board and a very busy summer, I should be ready to accept orders in August or September 2022, with boards shipping sometime in September. These are estimates and *not* a guarantee.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfo7H6aYEcjtvhjr59D1yCgh12T_TgmO7ssSEI8Y5jFFow7ig/viewform?embedded=true" width=auto height="2140" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfo7H6aYEcjtvhjr59D1yCgh12T_TgmO7ssSEI8Y5jFFow7ig/viewform?embedded=true" width="100%" height="2140" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <style>
 	iframe {
