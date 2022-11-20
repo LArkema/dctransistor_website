@@ -14,12 +14,12 @@ Feel free to also use the form to make comments on the current board, particular
  * Increase the size of the top mounting holes so the board can more easily be screwed onto a surface or mounted on a hook
  * Replace the development chip soldered onto the back of the board with individual components integrated onto the front.
  * Replace the Micro-USB / USB-B connector with a USB-C connector
- * Power the board with 3 AAA batteries instead of AA batteries
+ * Power the board with an optional battery connector instead of the built-in battery holder.
  * Connect the On/Off switch to USB and battery power supplies (currently only works with battery power)
  * Add smaller capacitors throughout the board instead of the one large one currently on the left-middle
  * Make other small technical fixes to the board design
 
-Based on current progress on the production board and a very busy summer, I should be ready to accept orders in August or September 2022, with boards shipping sometime in September. These are estimates and *not* a guarantee.
+Based on current progress on the production board and a very busy summer, I should be ready to accept orders in late 2022 or early 2023, with boards shipping sometime in January or February. These are estimates and *not* a guarantee.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfo7H6aYEcjtvhjr59D1yCgh12T_TgmO7ssSEI8Y5jFFow7ig/viewform?embedded=true" width="100%" height="2140" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

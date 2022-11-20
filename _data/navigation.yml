@@ -1,7 +1,3 @@
-- name: Board Auction
-  link: /auction/
-  new_window: false
-  highlight: true
 - name: Waitlist
   link: /waitlist/
   new_window: false
