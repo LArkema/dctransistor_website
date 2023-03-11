@@ -1,5 +1,5 @@
 ---
-title: Waitlist Form
+title: Pre-Order
 description: >-
   Get Alerted when Boards are Available
 ---

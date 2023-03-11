@@ -6,7 +6,17 @@ description: >-
 
 
 # Setup Instructions
-Since boards haven't gone on sale yet (and the production board is not quite finished), I haven't made detailed and easy-to-follow instructions yet. However, the process only requires a Micro-USB cable, some software downloads, and entering your WiFi information to work.
+To get your board to work, you only need to provide it with power and WiFi information.
+
+### Power
+Boards can be powered with a USB-C cable **or** a battery with a JST-PH 2.0 connector. Either power source must provide 5 volts (5V) of power - providing more volts may damage your board, and fewer may cause LEDs to dim or blink out.
+
+The simplest power source is a USB-C cable attached to a phone charger or computer. Be sure to check your power supply, but most chargers will provide 5V.
+
+Alternatively, you can use a battery or alternative power supply that provides approximately 5V of power through a JST-PH 2.0 connection. For example, a [3x AA battery holder](https://www.adafruit.com/product/4779) will provide sufficient power with three fully charged batteries.
+**Caution**: Batteries may drain quickly when powering the board alone. For continuous use, a stable power supply is recommended.
+
+You may also power your board using both the USB-C and JST connections. Doing so should draw less power from both supplies.
 
 1. Download [Arduino IDE](https://www.arduino.cc/en/software)
 2. Download the [dctransistor code](https://github.com/LArkema/dctransistor-project)
