@@ -1,14 +1,18 @@
-- name: Waitlist
-  link: /waitlist/
+- name: Preorder
+  link: /preorder/
   new_window: false
   highlight: true
 
-- name: Board Info
+- name: Board Setup
   link: /setup/
   new_window: false
   highlight: false
-- name: Pricing
-  link: /pricing/
+- name: Board Information
+  link: /board-info/
+  new_window: false
+  highlight: false
+- name: Customization
+  link: /customize/
   new_window: false
   highlight: false
 - name: About

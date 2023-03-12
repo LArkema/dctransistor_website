@@ -1,7 +1,7 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Board Info
+  - name: Preorder
+    link: /preorder/
+  - name: Setup
     link: /setup/
   - name: About
     link: /about/
@@ -9,8 +9,8 @@
   - name: Contact
     link: /contact/
     new_window: false
-  - name: Blog
-    link: /blog/
+  - name: Terms and Privacy
+    link: /terms-and-privacy/
     new_window: false
   - name: Docs
     link: https://github.com/LArkema/dctransistor-project
