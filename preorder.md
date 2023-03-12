@@ -13,7 +13,7 @@ The Preorder will close on 3/19/2023, and I will purchase a batch of boards duri
 Before ordering, be sure to read and understand the [Terms of Service and Privacy Policy](/terms-and-privacy). Importantly, a power supply is *not* included.
 
 ## Pay What You Can Pricing
-All DCTransistor Boards are currently pay-what-you-can so that everyone who wants a board can get one, with a range of $50-$250. I've set a recommended price of $75 which I believe fairly covers my costs, keeps the boards accessibly priced, and lets me share my appreciation for DC with members of the community who need it more. *All purchases above $150 will go directly to a DC-based mutual aid or other community organization*.
+All DCTransistor Boards are currently pay-what-you-can so that everyone who wants a board can get one, with a range of $50-$250. I've set a recommended price of $75 which I believe fairly covers my costs, keeps the boards accessibly priced, and lets me share my love of DC with my neighbors. *All purchases above $150 will go directly to a DC-based mutual aid or other community organization*.
 
 ### Price Breakdown
 For context, each board will cost around $22 to make and ship to me, another $1 or so to ship to you, and $2.48 to have your payment processed. In addition, I've put about $900 into board prototypes, supplies, and other up-front costs, so $9 from each board in my first batch of 100 will recoup those. At the recommended price point of $75, another $16.25 will go to taxes, leaving $24.25 to do as I please.
@@ -43,5 +43,6 @@ I know having a board with bi-directional trains would be fantastic, and I'm pla
     padding: 14px 40px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
 	}
 </style>
