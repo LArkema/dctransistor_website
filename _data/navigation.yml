@@ -1,7 +1,7 @@
 - name: Preorder
   link: /preorder/
   new_window: false
-  highlight: true
+  highlight: false
 
 - name: Board Setup
   link: /setup/

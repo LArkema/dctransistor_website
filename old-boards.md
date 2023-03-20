@@ -5,27 +5,13 @@ description: >-
 ---
 
 
-### Differences
-There were multiple adjustments from the prototype board to the current production board. Specifically, I:
-
- * Fixed station names that get cutoff by the river or beltway designs
- * Made small, miscellaneous adjustments to LED and station name positions
- * Added silk screen (white text) to the board title to make it stand out more 
- * Increased the size of the top mounting holes so the board can more easily be screwed onto a surface or mounted on a hook
- * Replaced the development chip soldered onto the back of the board with individual components integrated onto the front.
- * Replaced the Micro-USB / USB-B connector with a USB-C connector
- * Powered the board with an optional battery connector instead of the built-in battery holder.
- * Connected the On/Off switch to USB and battery power supplies (currently only works with battery power)
- * Added smaller capacitors throughout the board instead of the one large one currently on the left-middle
- * Made other small technical fixes to the board design
-
 <figure class="led-pic">
 <img src="{{ site.baseurl }}/images/board-regular-night.jpg" alt="Picture of a DCtransistor board shot in the dark to show the different LED colors. As a result, the details of the board are not visible, except for the rivers." style="width: 275px; height: auto;">
 <figcaption>Board in the dark to show LED colors</figcaption>
 </figure>
 
 
-### Power Your Board
+## Power Your Board
 <div class="pwr-pics">
 <figure class="first-pwr-pic">
 <img src="{{ site.baseurl }}/images/usb-power-board.jpg" alt="Picture of a DCTransistor board in the middle of a loop through a program that displays a rainbow on the board. On the left side of the picture, a Micro-USB cable is plugged into the chip on the back of the board." style="width: 300px; height: auto;">
@@ -54,7 +40,21 @@ Finally, DO NOT CONNECT THE BOARD TO USB AND BATTERY POWER AT THE SAME TIME. Thi
 </style>
 <br>
 
-## Customize Your Board
+### Differences
+There were multiple adjustments from the prototype board to the current production board. Specifically, I:
+
+ * Fixed station names that get cutoff by the river or beltway designs
+ * Made small, miscellaneous adjustments to LED and station name positions
+ * Added silk screen (white text) to the board title to make it stand out more 
+ * Increased the size of the top mounting holes so the board can more easily be screwed onto a surface or mounted on a hook
+ * Replaced the development chip soldered onto the back of the board with individual components integrated onto the front.
+ * Replaced the Micro-USB / USB-B connector with a USB-C connector
+ * Powered the board with an optional battery connector instead of the built-in battery holder.
+ * Connected the On/Off switch to USB and battery power supplies (currently only works with battery power)
+ * Added smaller capacitors throughout the board instead of the one large one currently on the left-middle
+ * Made other small technical fixes to the board design
+
+### Customize Your Board
 
 To customize, or even update (for old software versions), your board:
 
@@ -68,7 +68,7 @@ To customize, or even update (for old software versions), your board:
 6. Plug in the board to your computer and [upload](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch) the dctransistor sketch
     1. Make sure you have selected the ESP8266 board, a 9600 baud rate, and the correct COM port for the board in Arduino's `Tools` menu.
 
-Once the tools have been installed, you can begin making tweaks to the code!
+Once the tools have been installed, you can begin making tweaks to the
 
 The main code (`.ino`) file sets a number of configuration values, most of which will break the board's functionality if they are changed. However, the configuration values for each line (starting around line 60) have their LED color
 defined with a `<line_code>_HEX_COLOR` 32-bit WRGB hex value, which you can change to whatever colors you want. In addition, `all_lines` array, defined right before the `setup()` function defines the order for what color a station LED will turn if two trains from different lines are "at" the same station (going opposite directions, one right behind another, etc.). You can change the order if you're partial to one line over another.

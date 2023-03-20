@@ -1,14 +1,12 @@
 ---
 title: Preorder
 description: >-
-  Pre-Purchase a DCTransistor Board. Shipping from the United States in early April.
+  Preorders closed. Shipping from the United States in early April.
 ---
 
-<a href="https://buy.stripe.com/cN2eXt3XKc0fefm9AA"><button class="buybutton">Preorder Now</button></a>
+<button class="buybutton-disabled">Unavailable</button>
  
-After months of work (and delays) transforming the prototype board into a clean, finished product, the [DCTransistor Pre-Order](https://buy.stripe.com/cN2eXt3XKc0fefm9AA) is live!
-
-The Preorder will close on 3/19/2023, and I will purchase a batch of boards during the week of 3/12 assuming a healthy number of preorders. Based on production and shipping estimates, I should receive the boards in late March / early April and be able to immediately start shipping them.
+Thank you to everyone who purchased a board during the pre-order! Based on production and shipping estimates, I should receive the boards in late March / early April and be able to immediately start shipping them and accepting new orders.
 
 Before ordering, be sure to read and understand the [Terms of Service and Privacy Policy](/terms-and-privacy). Importantly, a power supply is *not* included.
 
@@ -43,6 +41,20 @@ I know having a board with bi-directional trains would be fantastic, and I'm pla
     padding: 14px 40px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    cursor: pointer;
+    pointer-events: pointer;
 	}
+  .buybutton-disabled{
+    background-color: #808080;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 24px;
+    padding: 14px 40px;
+    border-radius: 8px;
+  }
 </style>
