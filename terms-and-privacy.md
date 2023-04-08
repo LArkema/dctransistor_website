@@ -69,6 +69,8 @@ This site is hosted on GitHub pages. As result, GitHub (owned by Microsoft) can 
 
 [GitHub's privacy statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages), sparsely mentions that they may collect information, including IP addresses, from you by visiting this site.
 
+In addition, your board connects to GitHub when it turns on to check for software updates and download them if one is available. As a result, GitHub will likely know that you own a DCTransistor board and that it is connecting from the public IP address of the network your board is connected to.
+
 ### WMATA
 When you use a board, your board will connect to a WMATA API server, providing WMATA with the public IP address of the network the board is on. In addition, if you do not change the default WMATA API key I provide, your board
 will contribute to an aggregated view of WMATA API use across all boards I sell. In practice, this will only let me know that you have connected your board to WMATA and which country you have connected it from. You can also [create your own WMATA key](https://developer.wmata.com/signup/) and put it onto your board to see the data for yourself.
