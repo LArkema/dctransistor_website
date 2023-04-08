@@ -9,7 +9,7 @@ description: Please reach out to the appropriate email below
 		<p>Please read <a href="/about">about</a> before sending any questions.</p>
 		<p><a href="mailto:logan@dctransistor.com">contact@dctransistor.com</a></p>
 		<h3 class="editable">Board Orders</h3>
-		<p>Please read the information on <a href="/pricing">pricing</a> before sending any questions.</p>
+		<p>Please read the information on <a href="/order">the order page</a> before sending any questions.</p>
 		<p><a href="mailto:orders@dctransistor.com">orders@dctransistor.com</a></p>
 		<h3 class="editable">Board Support</h3>
 		<p>Please read the information on <a href="/setup">setup</a> before sending any questions.</p>

@@ -24,7 +24,7 @@ This website is provided under a [MIT license](/LICENSE), and is based on the [H
 ### WMATA Licenses
 This board is powered by data provided by WMATA's API, and I am using that data in compliance with [WMATA's Developer License Agreement / Transit Data Terms of Use](https://developer.wmata.com/license). 
 
-The WMATA Metrorail System Map is (C) 2019 Washington Metropolitan Area Transit Authority ( (C) 2022 for map showing silver line extension and potomac yard station), and I make no claims on the original system map. The derived translation of the map onto programmable circuit board (PCB) with light-emitting-diode (LED) station displays is (C) Logan Arkema 2022.
+The WMATA Metrorail System Map is (C) 2019 Washington Metropolitan Area Transit Authority ( (C) 2022 for map showing silver line extension and potomac yard station), and I make no claims on the original system map. The transformation of the map onto programmable circuit board (PCB) with light-emitting-diode (LED) station displays is (C) Logan Arkema 2023.
 
 # Privacy Policy
 *Update 4/3/23*: Added high level description of how data is processed when a board is purchased and link to open-source order handling code. Modified Stripe, USPS, and Google sections to describe how each service interacts with board order information. Added Shippo section to describe how it is used to ship board orders. 
@@ -47,6 +47,8 @@ I use [Shippo](https://goshippo.com/privacy/) to generate USPS shipping orders, 
 
 ### USPS
 I use the [United States Postal Service](https://about.usps.com/who/legal/privacy-policy/full-privacy-policy.htm) to ship boards to you. When I generate a shipping label with [Shippo](#shippo), your shipping address will necessarily be shared with USPS. If you consent to share your email address with Shippo for shipping updates, they may also share your email address with USPS. 
+
+*First Class vs. Priority Shipping*: In addition to the expedited shipping for priority shipping, USPS also insures Priority Mail packages but not for First Class packages. All shipping insurance claims with your board should be directed to USPS.
 
 ### Google
 I use Google Workspaces to manage the basic business side of DCTransistor (i.e. email, spreadsheets, and forms). When you submit an order, I use Google Workspaces to download your transaction details (product description, order total, shipment method, shipping address, and other Stripe-generated order data) from Stripe and to immediately generate a shipping label with Shippo for non-local pickup orders. I do not store any address information except for your zip code in Google Workspaces. Approximately a week after your board is delivered, Google Workspace automatically deletes any potentially personally-identifying information from your order and only preserves the product description, shipping method, payment amounts, zip code, and dates your board was ordered, shipped, and received to help me manage financial records and delivery times among different delivery methods. 
