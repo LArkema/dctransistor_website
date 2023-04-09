@@ -1,6 +1,6 @@
 - links:
-  - name: Preorder
-    link: /preorder/
+  - name: Order
+    link: /order/
   - name: Setup
     link: /setup/
   - name: About
@@ -16,6 +16,10 @@
     link: https://github.com/LArkema/dctransistor-project
     new_window: true
 - links:
+  - name: Instagram
+    link: https://instagram.com/dctransistor/
+    social_icon: Instagram
+    new_window: true
   - name: Twitter
     link: https://twitter.com/LoganArkema/
     social_icon: Twitter

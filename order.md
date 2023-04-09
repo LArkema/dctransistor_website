@@ -4,10 +4,14 @@ title: Board Orders
 
 <button class="buybutton"><a href="https://buy.stripe.com/dR616Dam80hx5IQaEG" target="_blank" style="color: inherit">Order Now</a></button>
 
-Before ordering, be sure to read and understand the [Terms of Service and Privacy Policy](/terms-and-privacy). Importantly, a power supply is *not* included.
+Before ordering, be sure to read and understand the [Terms of Service and Privacy Policy](/terms-and-privacy) and [Board Information](/board-info)
+
+To stay up-to-date with DCTransistor products and offers, [follow us on Instagram](https://www.instagram.com/dctransistor/)
 
 ## Pay What You Can Pricing
-All DCTransistor Boards are currently pay-what-you-can so that everyone who wants a board can get one, with a range of $60-$250. I've set a recommended price of $80 which I believe fairly covers my costs, keeps the boards accessibly priced, and lets me give back to the community. *All purchases above $150 will go directly to a DC-based mutual aid or other community organization*.
+All DCTransistor Boards are currently pay-what-you-can so that everyone who wants a board can get one, with a range of $60-$250. I've set a recommended price of $80 which I believe fairly covers my costs, keeps the boards accessibly priced, and lets me give back to the community. 
+
+All purchases above $150 will go directly to a DC-based mutual aid or other community organization.
 
 ### Price Breakdown
 In the spirit of providing a transparent, open source, community-minded project, here's where your money goes for a $80 board:

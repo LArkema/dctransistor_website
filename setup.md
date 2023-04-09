@@ -13,19 +13,19 @@ In short:
 2. Join the `DCTransistor` WiFi network and follow the WiFi setup prompts
 
 ### Power
-Boards can be powered with a USB-C cable **or** a battery with a JST-PH 2.0 connector. Either power source must provide 5 volts (5V) of power - providing more volts may damage your board, and fewer may cause LEDs to dim or blink out.
+Boards can be powered with a USB-C cable *or* a battery with a JST-PH 2.0 connector. Either power source must provide 5 Volts (5V) of power - more volts may damage your board, and fewer volts may cause LEDs to dim or blink out.
 
 <figure style="text-algin: center">
-<img src="/images/initial_power.jpg" style="height: 300px; width: 300px;">
-<img src="/images/usb_and_battery_power.jpg" style="height: 300px; width: 300px;">
-<img src="/images/battery_power.jpg" style="height: 300px; width: 300px;">
-<figcaption>Above: Board powered with USB cable, board powered with a USB cable and battery pack, and board powered with just a battery pack.</figcaption>
+  <img src="/images/initial_power.jpg" style="height: 300px; width: 300px;">
+  <img src="/images/usb_and_battery_power.jpg" style="height: 300px; width: 300px;">
+  <img src="/images/battery_power.jpg" style="height: 300px; width: 300px;">
+  <figcaption>Above: Board powered with USB cable, board powered with a USB cable and battery pack, and board powered with just a battery pack.</figcaption>
 </figure>
 
 The simplest power source is a USB-C cable attached to a phone charger or computer. Be sure to check your power supply, but most chargers will provide 5V.
 
 Alternatively, you can use a battery or alternative power supply that provides approximately 5V of power through a JST-PH 2.0 connection. For example, a [3x AA battery holder](https://www.adafruit.com/product/4779) will provide sufficient power with three fully charged batteries.
-**Caution**: Batteries may drain quickly when powering the board alone. For continuous use, a stable power supply is recommended.
+*Caution*: Batteries may drain quickly when powering the board alone. For continuous use, a stable power supply is recommended.
 
 You may also power your board using both the USB-C and JST connections. Doing so should draw less power from both supplies.
 
@@ -89,11 +89,11 @@ When the board is updating, the WiFi status LED will turn blue. When it is done 
 ### Troubleshooting
 Though the board shouldn't have any problems that aren't quickly addressed through an update, it is possible that something may prevent your board from automatically updating itself or that an issue with the boards goes unnoticed.
 
-If this happens, first manually install the most recent software version using the instructions under [customize your board](#customize-your-board).
+If this happens, first manually install the most recent software version using the instructions under [customize your board](/customize/).
 
 If the problem persists with the latest software version, send an email to <a href="mailto:support@dctransistor.com">support@dctransistor.com</a> or create an issue on [GitHub](https://github.com/LArkema/dctransistor-project/issues)
 
 <figure>
   <img src="/images/setup_complete.jpg">
-  <figcaption style="text-align: center">7. After donwloading, the board resets and begins showing train locations</figcaption>
+  <figcaption style="text-align: center">7. After downloading, the board resets and begins showing train locations</figcaption>
 </figure>

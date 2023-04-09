@@ -1,10 +1,57 @@
 ---
-title: How it Works
+title: Board Details
 description: >-
-  Details about how the board updates its display
+  Product Specifications and Software Summary
 ---
 
 <img class="cover-board" src="{{ site.baseurl }}/images/lightup-board.jpg" alt="Large picture of a DCTransistor board, powered on to show live train positions. The board is programmable circuit board, mostly light green except for a dark green title and dark green rectangles representing the DC metro train lines, a beige boundary representing the beltway, and silver representing the Potomac and Anacostia rivers. It is designed to represent the DC Metro System map.">
+
+<div style="outline-style: solid; overflow: hidden">
+  <h2>Board Specifications</h2>
+  <div class="column">
+    <ul>
+      <li>105 RGB (Red Green Blue) LEDs</li>
+      <li>20 second LED refresh rate</li>
+      <li>1x ESP-12F WiFi module and processor</li>
+      <li>1x CH340C USB-to-serial conversion chip</li>
+      <li>12" x 12.4" (304.8 x 314.8mm)</li>
+    </ul>
+  </div>
+  <div class="column">
+    <ul>
+      <li>Requires 5 Volts (5V) power (supply not included)</li>
+      <li>USB-C power and data port</li>
+      <li>JST PH-2.0 power connector</li>
+      <li>On/Off switch</li>
+      <li>2x 5.5mm mounting holes</li>
+    </ul>
+  </div>
+  <h3 style="padding-left: 20px;">Key Open Source Libraries</h3>
+    <ul>
+      <li><a href="https://github.com/esp8266/Arduino">ESP8266 Arduino Core</a></li>
+      <li><a href="https://www.arduino.cc/en/software">Arduino IDE and Main Libraries</a></li>
+      <li><a href="https://github.com/adafruit/Adafruit_NeoPixel/">Adafruit NeoPixel</a></li>
+      <li><a href="https://arduinojson.org/">ArduinoJson</a></li>
+      <li><a href="https://github.com/tzapu/WiFiManager/">WiFiManager</a></li>
+    </ul>
+</div>
+
+<style>
+  .column {
+    float: left;
+    width: 50%;
+  }
+
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+  }
+</style>
+
+<p></p>
+<br>
+## How It Works
 
 Boards work by getting real-time train positions WMATA makes available through it's [API](https://developer.wmata.com/docs/services/5763fa6ff91823096cac1057/operations/5763fb35f91823096cac1058), and turning on LEDs for the station a train is arriving at or most recently departed. 
 
