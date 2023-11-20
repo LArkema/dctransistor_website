@@ -13,7 +13,9 @@ In short:
 2. Join the `DCTransistor` WiFi network and follow the WiFi setup prompts
 
 ### Power
-Boards can be powered with a USB-C cable *or* a battery with a JST-PH 2.0 connector. Either power source must provide 5 Volts (5V) of power - more volts may damage your board, and fewer volts may cause LEDs to dim or blink out.
+Boards can be powered with a USB-C cable *or* a battery with a JST-PH 2.0 connector (for older boards that have one). Either power source must provide 5 Volts (5V) of power - more volts may damage your board, and fewer volts may cause LEDs to dim or blink out.
+
+Once connected, make sure the power switch above the LED indicators is switched to "on." (I know, I know ... but I have had to make that instruction explicit)
 
 <figure style="text-algin: center">
   <img src="/images/initial_power.jpg" style="height: 300px; width: 300px;">
@@ -27,7 +29,7 @@ The simplest power source is a USB-C cable attached to a phone charger or comput
 Alternatively, you can use a battery or alternative power supply that provides approximately 5V of power through a JST-PH 2.0 connection. For example, a [3x AA battery holder](https://www.adafruit.com/product/4779) will provide sufficient power with three fully charged batteries.
 *Caution*: Batteries may drain quickly when powering the board alone. For continuous use, a stable power supply is recommended.
 
-You may also power your board using both the USB-C and JST connections. Doing so should draw less power from both supplies.
+You may also power your board using both the USB-C and JST connections ***unless you have a development board*** (then only use one - see <a href="/dev-boards/">dev boards</a>). Doing so should draw less power from both supplies.
 
 ### WiFi
 

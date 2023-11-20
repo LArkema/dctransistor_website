@@ -3,14 +3,16 @@
   new_window: false
   highlight: true
 
+- name: Board Details
+  link: /board-info/
+  new_window: false
+  highlight: false
+
 - name: Board Setup
   link: /setup/
   new_window: false
   highlight: false
-- name: Board Information
-  link: /board-info/
-  new_window: false
-  highlight: false
+
 - name: Customization
   link: /customize/
   new_window: false

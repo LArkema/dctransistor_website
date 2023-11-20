@@ -1,7 +1,7 @@
 ---
-title: Old Board Versions
+title: Dev Board Information
 description: >-
-  Details about prior board versions, and how to use them
+  Details about the dev board and how to use it
 ---
 
 
