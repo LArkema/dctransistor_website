@@ -6,7 +6,7 @@ title: Board Orders
 | test  | test | -->
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
-## Free Black Friday Shipping at Checkout through November
+## Free Black Friday Shipping for Orders through November. In-stock orders will not be fulfilled until 11/30.
 
 <table>
   <tr>

@@ -10,6 +10,8 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
+## Free Black Friday Shipping for Orders through November. In-stock orders will not be fulfilled until 11/30.
+
 # Bidirectional Board
 
 The bidirectional board is in bulk production and shipping by December 16, 2023! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
