@@ -10,7 +10,7 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
-## Free Black Friday Shipping for Orders through November. In-stock orders will not be fulfilled until 11/30.
+## Free Black Friday Shipping for Orders through November.
 
 # Bidirectional Board
 
