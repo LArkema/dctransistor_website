@@ -24,7 +24,7 @@ The bidirectional board is in bulk production and shipping by December 16, 2023!
   <div class="column">
     <ul>
       <li>207 2mm x 2mm RGB LEDs</li>
-      <li>15 second LED refresh rate</li>
+      <li>10 second LED refresh rate</li>
       <li>1 ESP-12F WiFi module and processor</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm)</li>
@@ -56,7 +56,7 @@ The "standard board" is the classic DCTransistor board with one LED representing
   <div class="column">
     <ul>
       <li>105 5mm x 5mm RGB LEDs</li>
-      <li>15 second LED refresh rate</li>
+      <li>10 second LED refresh rate</li>
       <li>1 ESP-12F WiFi module and processor</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm) (304.8 x 314.8 in old versions)</li>
@@ -90,7 +90,7 @@ If you own or plan to purchase a dev board, **be sure to read** the information 
   <div class="column">
     <ul>
       <li>105 5mm x 5mm RGB LEDs</li>
-      <li>15 second LED refresh rate</li>
+      <li>10 second LED refresh rate</li>
       <li>1 ESP-12F Development Board with GPIO pins</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm)</li>

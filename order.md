@@ -1,9 +1,7 @@
 ---
 title: Board Orders
 ---
-<!-- | Board | Buy Button |
-| ---- | ---- |
-| test  | test | -->
+
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
 <table>
