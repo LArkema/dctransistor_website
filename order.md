@@ -4,6 +4,8 @@ title: Board Orders
 
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
+***Orders after December 18 will not ship until early January (I am not "on that grind").***
+
 <table>
   <tr>
     <th style="width:40%;font-size: 3vw;">Product</th>
@@ -15,14 +17,14 @@ Select your board! 20% of all board sales goes towards Open Source projects that
       <a href="/board-info/#bidirectional-board">
         <img src="/images/dctransistor-bidirectional.gif" class="product_image"> 
         <br>
-        <b class="product_title">Bidirectional Board (Shipping Dec. 2023)</b>
+        <b class="product_title">Bidirectional Board</b>
       </a>
     </td>
     <td>
       <b class="product_title">$105</b>
     </td>
     <td>
-      <button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Preorder</a></button>
+      <button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Buy Now</a></button>
     </td>
   </tr>
   <tr>

@@ -10,11 +10,13 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
+***Orders after December 18 will not ship until early January (I am not "on that grind").***
+
 # Bidirectional Board
 
-The bidirectional board is in bulk production and shipping by December 16, 2023! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
+The bidirectional board is here! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
 
-<button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Preorder ($105)</a></button>
+<button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Buy Now ($105)</a></button>
 
 
 <img class="cover-board" src="{{ site.baseurl }}/images/bidirectional_board.jpg" alt="Large picture of a Bidirectional DCTransistor bBard, powered on to show live train positions. The board is programmable circuit board, mostly light green except for a dark green title and dark green rectangles representing the DC metro train lines, a beige boundary representing the beltway, and silver representing the Potomac and Anacostia rivers. It is designed to represent the DC Metro System map. For each station on the DC Metro map, there are two 2mm LEDs to indicate trains going both directions at each station.">
