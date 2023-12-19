@@ -10,7 +10,7 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
-***Orders after December 18 will not ship until early January (I am not "on that grind").***
+***Orders are paused for the holidays and will not ship until early January 2024 (I am not "on that grind").***
 
 # Bidirectional Board
 
