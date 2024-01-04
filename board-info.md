@@ -10,8 +10,6 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
-***Orders are paused for the holidays and will not ship until early January 2024 (I am not "on that grind").***
-
 # Bidirectional Board
 
 The bidirectional board is here! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
