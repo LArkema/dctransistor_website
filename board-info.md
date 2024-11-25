@@ -10,6 +10,8 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
+<p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p>
+
 # Bidirectional Board
 
 The bidirectional board is here! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
@@ -24,7 +26,7 @@ The bidirectional board is here! With 207 individual LEDs, the bidirectional boa
   <div class="column">
     <ul>
       <li>207 2mm x 2mm RGB LEDs</li>
-      <li>20 second LED refresh rate</li>
+      <li>2 second LED refresh rate</li>
       <li>1 ESP-12F WiFi module and processor</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm)</li>
@@ -56,7 +58,7 @@ The "standard board" is the classic DCTransistor board with one LED representing
   <div class="column">
     <ul>
       <li>105 5mm x 5mm RGB LEDs</li>
-      <li>20 second LED refresh rate</li>
+      <li>2 second LED refresh rate</li>
       <li>1 ESP-12F WiFi module and processor</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm) (304.8 x 314.8 in old versions)</li>
@@ -90,7 +92,7 @@ If you own or plan to purchase a dev board, **be sure to read** the information 
   <div class="column">
     <ul>
       <li>105 5mm x 5mm RGB LEDs</li>
-      <li>20 second LED refresh rate</li>
+      <li>2 second LED refresh rate</li>
       <li>1 ESP-12F Development Board with GPIO pins</li>
       <li>1 CH340C USB-to-serial conversion chip</li>
       <li>12" x 12" (304.8 x 304.8mm)</li>

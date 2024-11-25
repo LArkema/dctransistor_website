@@ -4,6 +4,7 @@ title: Board Orders
 
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
+<p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p>
 <table>
   <tr>
     <th style="width:40%;font-size: 3vw;">Product</th>
@@ -115,7 +116,7 @@ In the spirit of providing a transparent, open source, community-minded project,
 ***DC Community Organizations***: 17% of all sales go to DC mutual aid and other community organizations doing important on-the-ground work in the area. Prior contributions have gone to the DC Abortion Fund and various mutual aid networks.
 
 ### Local Pickup
-Instead of having the board shipped, you can also arrange to pick it up from me in the DC area *if we're already going to be in the same place at the same time.* Basically, this is limited to 1) my friends and Columbia Heights neighbors, 2) other people regularly on the Georgetown Law Center Campus, 3) work colleagues, and 4) people at a meetup for an area group I would otherwise be attending (if this applies, I've posted about it in that group). Please read the [terms and conditions](/terms-and-privacy/#local-pickup) before selecting this option.
+Instead of having the board shipped, you can also arrange to pick it up from me in the DC area. **IT IS YOUR RESPONSIBILITY TO ARRANGE AND CONFIRM A PICKUP, AND YOU WILL BE ASKED TO PAY FOR SHIPPING IF WE CANNOT ARRANGE A PICKUP.** Please read the [terms and conditions](/terms-and-privacy/#local-pickup) before selecting this option.
 
 *You must email <a href="mailto:orders@dctransistor.com">orders@dctransistor.com</a> to arrange a pickup before selecting the option during checkout*
 
