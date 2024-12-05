@@ -4,7 +4,8 @@ title: Board Orders
 
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
-<p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p>
+<p style="color: red"><b>Holiday Pricing + Free Shipping Until 12/16/2024. Orders after 12/16/2024 will not be shipped until 2025.</b></p>
+<!-- <p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p> -->
 <table>
   <tr>
     <th style="width:40%;font-size: 3vw;">Product</th>
@@ -20,7 +21,11 @@ Select your board! 20% of all board sales goes towards Open Source projects that
       </a>
     </td>
     <td>
-      <b class="product_title">$105</b>
+      <b class="product_title">
+      <s>$105</s>
+      <br>
+      $90
+      </b>
     </td>
     <td>
       <button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Buy Now</a></button>
@@ -35,7 +40,11 @@ Select your board! 20% of all board sales goes towards Open Source projects that
       </a>
     </td>
     <td>
-      <b class="product_title">$65</b>
+      <b class="product_title">
+      <s>$65</s>
+      <br>
+      $50
+      </b>
     </td>
     <td>
       <button class="buybutton"><a href="https://buy.stripe.com/dR616Dam80hx5IQaEG" target="_blank" style="color: inherit">Buy Now</a></button>
