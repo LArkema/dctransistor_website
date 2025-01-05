@@ -4,7 +4,6 @@ title: Board Orders
 
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
-<p style="color: red"><b>Orders will not be shipped until January 2025.</b></p>
 <!-- <p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p> -->
 <table>
   <tr>

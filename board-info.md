@@ -10,7 +10,6 @@ description: >-
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
-<p style="color: red"><b>Orders will not be shipped until January 2025.</b></p>
 <!-- <p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p> -->
 
 # Bidirectional Board
