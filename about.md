@@ -20,23 +20,3 @@ will be going to local DC community members and organizations, mostly mutual aid
 
 I have a full-time job that is not selling these boards, so don't expect the most responsive or highest-quality customer service. I want to make something that everyone can use and enjoy, but I don't have the
 capacity to make this as professional and seamless as possible. 
-
-I plan on (eventually) writing blog posts going through the entire development process, my lessons learned, etc. - especially for
-the project management practices I tried to bake-in to the process (e.g. setting up a CI pipeline, creating an auto-updating bill-of-materials). 
-Until then, the source code is public; feel free to reverse-engineer my mistakes from the commit history.
-
-<img class="headshot-img" src="{{ site.baseurl }}/images/headshot.jpg" alt="Picture of me, Logan, a young, white male with a short beard wearing purple sunglasses and black guayabera. I'm standing in front of a wall at Metrobar with art on it, to the right is a pink astronaut with a patch that says '51'">
-
-## About Me
-
-I am a hobbyist open-source software developer, transit enthusiast, hacker, and DC resident. If you really want to know more, I have a personal website at [loganarkema.com](https://loganarkema.com).
-
-
-<style>
-  .headshot-img {
-    float: right;
-    margin: 5px;
-    width: 25%;
-    height: auto;
-  }
-</style>
