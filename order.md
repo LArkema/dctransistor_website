@@ -4,7 +4,8 @@ title: Board Orders
 
 Select your board! 20% of all board sales goes towards Open Source projects that make DCTransistor possible and to DC-based Community Organizations. See the [price breakdown](#price-breakdown) below for more details.
 
-<!-- <p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p> -->
+<p style="color: red"><b>Orders received after 12/16/2025 will not be shipped until January 2026.</b>
+
 <table>
   <tr>
     <th style="width:40%;font-size: 3vw;">Product</th>
@@ -20,12 +21,17 @@ Select your board! 20% of all board sales goes towards Open Source projects that
       </a>
     </td>
     <td>
-      <b class="product_title">
+      <b class="product_title" style="text-decoration: line-through">
       $99
+      </b>
+      <p>
+      </p>
+      <b class="product_title">
+      Sold Out (forever)
       </b>
     </td>
     <td>
-      <button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Buy Now</a></button>
+      <button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit;text-decoration: line-through">Sold Out</a></button>
     </td>
   </tr>
   <tr>
@@ -174,6 +180,10 @@ Instead of having the board shipped, you can also arrange to pick it up from me 
   .product_title {
     font-size: 3vw;
     color: black;
+  }
+
+  .product_unavailable {
+    text-decoration: line-through;
   }
 
   table, th, td {

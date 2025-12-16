@@ -5,48 +5,16 @@ description: >-
 ---
 
 **Jump To:**
-* [Bidirectional Board](#bidirectional-board)
 * [Standard Board](#standard-board)
+* [Bidirectional Board](#bidirectional-board)
 * [Dev Board](#dev-board)
 * [How It Works](#how-it-works)
 
-<!-- <p style="color: red"><b>Deliveries Paused From 11/25/2024-12/3/2024. Orders will not be shipped until 12/4/2024.</b></p> -->
-
-# Bidirectional Board
-
-The bidirectional board is here! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
-
-<button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit">Buy Now - $99</a></button>
-
-
-<img class="cover-board" src="{{ site.baseurl }}/images/bidirectional_board.jpg" alt="Large picture of a Bidirectional DCTransistor bBard, powered on to show live train positions. The board is programmable circuit board, mostly light green except for a dark green title and dark green rectangles representing the DC metro train lines, a beige boundary representing the beltway, and silver representing the Potomac and Anacostia rivers. It is designed to represent the DC Metro System map. For each station on the DC Metro map, there are two 2mm LEDs to indicate trains going both directions at each station.">
-
-<div style="outline-style: solid; overflow: hidden">
-  <h2>Board Specifications</h2>
-  <div class="column">
-    <ul>
-      <li>207 2mm x 2mm RGB LEDs</li>
-      <li>2 second LED refresh rate</li>
-      <li>1 ESP-12F WiFi module and processor</li>
-      <li>1 CH340C USB-to-serial conversion chip</li>
-      <li>12" x 12" (304.8 x 304.8mm)</li>
-    </ul>
-  </div>
-  <div class="column">
-    <ul>
-      <li>Requires 5 Volts (5V) power (supply not included)</li>
-      <li>USB-C power and data port</li>
-      <li>On/Off switch</li>
-      <li>2 5.5mm mounting holes</li>
-    </ul>
-  </div>
-</div>
-
-<b>
+<p style="color: red"><b>Orders received after 12/16/2025 will not be shipped until January 2026.</b></p>
 
 # Standard Board
 
-The "standard board" is the classic DCTransistor board with one LED representing each WMATA station. LED indicators will move in both directions along the single display for both directions of a WMATA line. I have produced multiple batches of the standard board, and in addition to some minor aesthetic adjustments, I removed the JST battery connector from recent versions. If you specifically want a board with a JST connection, email <a href="mailto:orders@dctransistor.com">orders@dctransistor.com</a> when placing your order.
+The "standard board" is the classic DCTransistor board with one LED representing each WMATA station. LED indicators will move in both directions along the single display for both directions of a WMATA line.
 
 <button class="buybutton"><a href="https://buy.stripe.com/dR616Dam80hx5IQaEG" target="_blank" style="color: inherit">Buy Now - $50</a></button>
 
@@ -76,6 +44,38 @@ The "standard board" is the classic DCTransistor board with one LED representing
 </div>
 
 <br>
+
+# Bidirectional Board
+
+The bidirectional board is here! With 207 individual LEDs, the bidirectional board has separate indicators for trains moving in both directions at each station. Indicators move on the "right" side of the track relative to the train's direction. The bidirectional board takes the DCTransistor boards from a neat aesthetic item to a clearer visual representation of trains moving throughout the Metro system. Enjoy! 
+
+<button class="buybutton"><a href="https://buy.stripe.com/14kaHdcug0hxfjq28c" target="_blank" style="color: inherit;text-decoration: line-through">Sold Out</a></button>
+
+
+<img class="cover-board" src="{{ site.baseurl }}/images/bidirectional_board.jpg" alt="Large picture of a Bidirectional DCTransistor bBard, powered on to show live train positions. The board is programmable circuit board, mostly light green except for a dark green title and dark green rectangles representing the DC metro train lines, a beige boundary representing the beltway, and silver representing the Potomac and Anacostia rivers. It is designed to represent the DC Metro System map. For each station on the DC Metro map, there are two 2mm LEDs to indicate trains going both directions at each station.">
+
+<div style="outline-style: solid; overflow: hidden">
+  <h2>Board Specifications</h2>
+  <div class="column">
+    <ul>
+      <li>207 2mm x 2mm RGB LEDs</li>
+      <li>2 second LED refresh rate</li>
+      <li>1 ESP-12F WiFi module and processor</li>
+      <li>1 CH340C USB-to-serial conversion chip</li>
+      <li>12" x 12" (304.8 x 304.8mm)</li>
+    </ul>
+  </div>
+  <div class="column">
+    <ul>
+      <li>Requires 5 Volts (5V) power (supply not included)</li>
+      <li>USB-C power and data port</li>
+      <li>On/Off switch</li>
+      <li>2 5.5mm mounting holes</li>
+    </ul>
+  </div>
+</div>
+
+<b>
 
 # Dev Board
 
